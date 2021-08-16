@@ -1,1 +1,1 @@
-web: pip install . -U && MachineLearning-run
+web: pip install . -U && mlproject-run
